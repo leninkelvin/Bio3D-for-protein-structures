@@ -1,5 +1,5 @@
 # Bio3D-for-multiple-structures
-(GraphicalAbstract.png)
+![A squirrel researcher looking stumped at a computer screen displaying a complex structural alignment.](GraphicalAbstract.png)
 
 Este repositorio tiene varios scripts generales para ser usados en R/Rstudio para el análisis y clasificación de estructuras de proteínas.
 
