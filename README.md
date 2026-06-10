@@ -7,8 +7,8 @@ El Abstract Gráfico desplegado en arriba corresponde al resumen que se sometió
 
 El poster esta en [formato PDF](posterNEXUS3.pdf)
 
-El material del poster se generó con el [script ProteinPCA-localsv2.0.R](ProteinPCA-localsv2.0.R)
+El material del poster se generó con el [script ProteinPCA-localsv2.0.R](ProteinPCA-localsv2.0.R). Este script usa archivos previamente descargados localmente y genera gráficas de PCA de 2 y 3 dimensiones interactivas. 
 
-El [script ProteinPCA-specificv2.0.R](ProteinPCA-specificv2.0.R) realiza operaciones semejantes.
+El [script ProteinPCA-specificv2.0.R](ProteinPCA-specificv2.0.R) realiza operaciones semejantes pero no genera gráficas de PCA interactivas. Generá un reporte de las características experimentales de las estructuras descargadas automaticamente. 
 
 Contacto: lenin.dominguez.ramirez@proton.me
