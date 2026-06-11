@@ -12,3 +12,8 @@ El material del poster se generó con el [script ProteinPCA-localsv2.0.R](Protei
 El [script ProteinPCA-specificv2.0.R](ProteinPCA-specificv2.0.R) realiza operaciones semejantes pero no genera gráficas de PCA interactivas. Generá un reporte de las características experimentales de las estructuras descargadas automaticamente. 
 
 Contacto: lenin.dominguez.ramirez@proton.me
+
+Notas:
+La estructura 2oz7 tiene la mutación T877A
+Las estructuras 8fgy tiene las mutaciones L702H/H875Y/F877L/T878A y la 8fgz tiene las mutaciones L702H/H875Y/F877L/T878A.
+Las estructuras 3v49 y 3v4a tienen peptido activador y in inhibidor.
